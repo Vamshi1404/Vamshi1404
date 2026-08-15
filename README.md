@@ -1,4 +1,4 @@
-<!-- Regenerate/update: the stats, streak, top-langs and repo cards pull live GitHub data (edit their github-readme-stats URLs below); typing-svg lines/colors live in its URL; tech icons in the skillicons URL; both banners in the capsule-render URLs; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
+<!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit the github-readme-stats URLs below); typing-svg lines/colors live in its URL; tech icons in the skillicons URL; both banners in the capsule-render URLs; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
 
 <p align="center">
   <picture>
@@ -28,17 +28,17 @@
 
 ## About
 
-- 🔭 **Currently building** — AI-powered dev tooling at OrangeAI (RepoSort turns vibe-coded repos into clean, secure, scalable software) plus full-stack Python + React apps like coRide and Analyzr.
-- 🌱 **Currently learning** — sharpening DSA on LeetCode and working through ML notebooks (tracked in `what-iam-learning`).
-- 💬 **Ask me about** — Kotlin, Python, React, and TypeScript/JavaScript full-stack apps shipped on Vercel.
-- ⚡ **Fun fact** — my bio is literally "🤓"; the repos do the talking.
+- **Currently building** — dev tooling at OrangeAI; RepoSort turns messy repos into clean, secure, scalable software, plus Python + React apps like coRide and Analyzr.
+- **Currently learning** — sharpening DSA on LeetCode, working through ML notebooks (tracked in `what-iam-learning`).
+- **Ask me about** — Python and full-stack apps shipped on Vercel.
+- **Fun fact** — the repos do the talking, not the bio.
 
 ## Tech Stack
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,ts,js,python,react,jupyter,html,css,git,github,vscode,vercel,markdown&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=kotlin,ts,js,python,react,jupyter,html,css,git,github,vscode,vercel,markdown&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,react,ts,js,jupyter,html,css,git,github,vscode,vercel,markdown&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,react,ts,js,jupyter,html,css,git,github,vscode,vercel,markdown&theme=light" />
   </picture>
 </p>
 
@@ -46,16 +46,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vamshi1404&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vamshi1404&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vamshi1404&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vamshi1404&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi1404&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi1404&theme=default&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi1404&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi1404&theme=default&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vamshi1404&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi1404&theme=default&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi1404&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi1404&theme=default&hide_border=true" alt="GitHub streak" />
   </picture>
 </p>
 
@@ -74,28 +74,28 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=channi23&repo=OrangeLens&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
-  <a href="https://github.com/vamshi1404/BaseWise">
+  <a href="https://github.com/Vamshi1404/BaseWise">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=BaseWise&theme=radical&hide_border=true&card_width=300" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=BaseWise&theme=default&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=BaseWise&theme=radical&hide_border=true&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=BaseWise&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
-  <a href="https://github.com/vamshi1404/coRide">
+  <a href="https://github.com/Vamshi1404/coRide">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=coRide&theme=radical&hide_border=true&card_width=300" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=coRide&theme=default&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=coRide&theme=radical&hide_border=true&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=coRide&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
-  <a href="https://github.com/vamshi1404/autosong">
+  <a href="https://github.com/Vamshi1404/autosong">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=autosong&theme=radical&hide_border=true&card_width=300" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=autosong&theme=default&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=autosong&theme=radical&hide_border=true&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=autosong&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
-  <a href="https://github.com/vamshi1404/Analyzr">
+  <a href="https://github.com/Vamshi1404/Analyzr">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=Analyzr&theme=radical&hide_border=true&card_width=300" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi1404&repo=Analyzr&theme=default&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=Analyzr&theme=radical&hide_border=true&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi1404&repo=Analyzr&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
 </p>
@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamshi1404&theme=radical&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vamshi1404&theme=radical&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ## Contribution Snake
@@ -122,7 +122,7 @@
   </picture>
 </p>
 
-The snake is redrawn every day by the GitHub Action at `.github/workflows/snake.yml` (runs on a daily schedule, on manual dispatch, and on every push). It publishes the two SVGs to the `output` branch of this repo, which the images above load from. Give it one run and it updates itself forever.
+The snake is redrawn every day by the GitHub Action at `.github/workflows/snake.yml` (daily schedule, manual dispatch, and every push). It publishes the two SVGs to the `output` branch of this repo, which the images above load from. Give it one run and it updates itself forever.
 
 <p align="center">
   <picture>
