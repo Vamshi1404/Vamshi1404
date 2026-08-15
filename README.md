@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FE428E&center=true&vCenter=true&width=700&lines=money+follows+my+broda;AI+Engineer;Building+%40+OrangeAI;Turning+messy+repos+into+clean+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FE428E&center=true&vCenter=true&width=700&lines=money+follows+my+broda;AI+Engineer;Turning+messy+repos+into+clean+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
