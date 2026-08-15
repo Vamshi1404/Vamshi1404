@@ -28,7 +28,7 @@
 
 ## About
 
-- **Currently building** — dev tooling at OrangeAI; RepoSort turns messy repos into clean, secure, scalable software, plus Python + React apps like coRide and Analyzr.
+- **Currently building** — dev tooling; RepoSort turns messy repos into clean, secure, scalable software, plus Python + React apps like coRide and Analyzr.
 - **Currently learning** — sharpening DSA on LeetCode, working through ML notebooks (tracked in `what-iam-learning`).
 - **Ask me about** — Python and full-stack apps shipped on Vercel.
 
