@@ -1,10 +1,7 @@
-<!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit the github-readme-stats URLs below (official github-readme-stats.vercel.app is frequently paused with 503; this file uses the working mirror github-readme-stats-eight-theta.vercel.app, and trophy.ryglcloud.net because the official trophy service is paywalled)); typing-svg lines/colors live in its URL; tech icons in the skillicons URL; both banners in the capsule-render URLs; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
+<!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit the github-readme-stats URLs below (official github-readme-stats.vercel.app is frequently paused with 503; this file uses the working mirror github-readme-stats-eight-theta.vercel.app, and trophy.ryglcloud.net because the official trophy service is paywalled)); typing-svg lines/colors live in its URL; tech icons in the skillicons URL; header banner is assets/header-reveal.svg (hand-built SMIL, one-shot on load); footer banner in its capsule-render URL; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:141321,100:FE428E&fontColor=ffffff&text=Vamshi%20Thirumal%20Reddy&fontSize=52&fontAlignY=38&desc=money%20follows%20my%20broda&descSize=20&descAlignY=55&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:FFE3EE,100:FF9EC7&fontColor=141321&text=Vamshi%20Thirumal%20Reddy&fontSize=52&fontAlignY=38&desc=money%20follows%20my%20broda&descSize=20&descAlignY=55&animation=fadeIn" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Vamshi1404/Vamshi1404/main/assets/header-reveal.svg" alt="Vamshi Thirumal Reddy" />
 </p>
 
 <p align="center">
