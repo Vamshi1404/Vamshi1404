@@ -1,4 +1,4 @@
-<!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit their URLs below; they use the github-readme-stats mirror github-readme-stats-eight-theta.vercel.app with theme=github_dark, since the official host is often paused with 503; the trophy uses trophy.ryglcloud.net with theme=dark, since the official service is paywalled); tech icons in the skillicons URL; header banner is assets/header.svg (hand-built SMIL, one-shot on load); footer banner in its capsule-render URL; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
+<!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit their URLs below; they use the github-readme-stats mirror github-readme-stats-eight-theta.vercel.app with theme=github_dark plus explicit monochrome color overrides bg_color=0d0d14,title_color=e8e8f0,text_color=a7a9b2,icon_color=84868f,border_color=2b2b35, since the official host is often paused with 503 and everything must stay grayscale to match the header; the streak forces grayscale ring/fire/nums/labels; the trophy uses trophy.ryglcloud.net with theme=oldie, the only fully-grayscale preset, since the official service is paywalled); tech icons in the skillicons URL; header banner is assets/header.svg (hand-built SMIL, one-shot on load); footer banner in its capsule-render URL; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vamshi1404/Vamshi1404/main/assets/header.svg" alt="Vamshi Thirumal Reddy" />
@@ -38,15 +38,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Vamshi1404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Vamshi1404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vamshi1404&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vamshi1404&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vamshi1404&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&border_color=2b2b35" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vamshi1404&theme=default&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi1404&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi1404&theme=github-dark&hide_border=true&background=0d0d14&stroke=3a3a46&ring=3a3a46&fire=9a9ca6&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=9a9ca6&sideLabels=9a9ca6&dates=6b6e78" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi1404&theme=default&hide_border=true" alt="GitHub streak" />
   </picture>
 </p>
@@ -56,37 +56,37 @@
 <p align="center">
   <a href="https://github.com/channi23/RepoSort">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=RepoSort&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=RepoSort&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=RepoSort&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
   <a href="https://github.com/channi23/OrangeLens">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=OrangeLens&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=OrangeLens&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=channi23&repo=OrangeLens&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
   <a href="https://github.com/Vamshi1404/BaseWise">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=BaseWise&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=BaseWise&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=BaseWise&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
   <a href="https://github.com/Vamshi1404/coRide">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=coRide&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=coRide&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=coRide&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
   <a href="https://github.com/Vamshi1404/autosong">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=autosong&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=autosong&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=autosong&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
   <a href="https://github.com/Vamshi1404/Analyzr">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=Analyzr&theme=github_dark&hide_border=true&card_width=300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=Analyzr&theme=github_dark&hide_border=true&card_width=300&bg_color=0d0d14&title_color=e8e8f0&text_color=a7a9b2&icon_color=84868f&border_color=2b2b35" />
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vamshi1404&repo=Analyzr&theme=default&hide_border=true&card_width=300" />
     </picture>
   </a>
@@ -96,12 +96,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-1E65F5?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-FE428E?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-D9DBE0?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
   <img src="https://img.shields.io/badge/YOLO-141321?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Vamshi1404&theme=dark&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Vamshi1404&theme=oldie&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ## Contribution Snake
