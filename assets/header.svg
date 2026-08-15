@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="55%" stop-color="#11111a"/>
+      <stop offset="100%" stop-color="#181228"/>
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b0a11"/>
+      <stop offset="100%" stop-color="#07060c"/>
+    </linearGradient>
+    <linearGradient id="headGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#221c30"/>
+      <stop offset="100%" stop-color="#0a0912"/>
+    </linearGradient>
+    <linearGradient id="hornGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2e2740"/>
+      <stop offset="100%" stop-color="#12101b"/>
+    </linearGradient>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161122"/>
+      <stop offset="100%" stop-color="#08070d"/>
+    </linearGradient>
+    <radialGradient id="eyeGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <g id="mascot">
+      <ellipse cx="-19" cy="-16" rx="15" ry="11" fill="url(#eyeGlow)"/>
+      <ellipse cx="19" cy="-16" rx="15" ry="11" fill="url(#eyeGlow)"/>
+      <path d="M -4,-68 L -20,-92 L -6,-66 L -22,-80 L -12,-58 Z" fill="url(#hornGrad)"/>
+      <path d="M 4,-68 L 20,-92 L 6,-66 L 22,-80 L 12,-58 Z" fill="url(#hornGrad)"/>
+      <path d="M -18,4 L -20,18 L -12,22 L -16,34 L -8,28 L -10,44 L -2,34 L 0,48 L 6,32 L 10,42 L 12,26 L 18,20 L 16,8 C 14,12 6,14 0,14 C -6,14 -16,12 -18,4 Z" fill="url(#bodyGrad)"/>
+      <path d="M -26,-18 L -14,-34 L -16,-58 L -4,-72 L 4,-72 L 16,-58 L 14,-34 L 26,-18 L 20,-2 L 4,6 L -4,6 L -20,-2 Z" fill="url(#headGrad)" stroke="#2a2436" stroke-width="1"/>
+      <polygon points="-24,-20 -12,-24 -15,-10 -26,-13" fill="#eef4ff"/>
+      <polygon points="24,-20 12,-24 15,-10 26,-13" fill="#eef4ff"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <g transform="translate(600,150)">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" keyTimes="0;1" begin="0.35s" dur="0.95s" calcMode="spline" keySplines="0 0 0.58 1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" values="0.9;1" keyTimes="0;1" begin="0.35s" dur="0.95s" calcMode="spline" keySplines="0 0 0.58 1" fill="freeze"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2" fill="#f2f2f7">Vamshi Thirumal Reddy</text>
+      <text x="0" y="32" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="24" font-weight="500" letter-spacing="4" fill="#FE428E">money follows my broda</text>
+    </g>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -340 0" keyTimes="0;1" begin="0s" dur="1.2s" calcMode="spline" keySplines="0 0 0.58 1" fill="freeze"/>
+    <rect x="0" y="0" width="600" height="300" fill="url(#panelGrad)"/>
+    <rect x="597" y="0" width="3" height="300" fill="#FE428E"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 340 0" keyTimes="0;1" begin="0s" dur="1.2s" calcMode="spline" keySplines="0 0 0.58 1" fill="freeze"/>
+    <rect x="600" y="0" width="600" height="300" fill="url(#panelGrad)"/>
+    <rect x="600" y="0" width="3" height="300" fill="#FE428E"/>
+  </g>
+
+  <g>
+    <use href="#mascot" xlink:href="#mascot" transform="scale(0.7)"/>
+    <animateTransform attributeName="transform" type="translate" values="-260 -150;150 40;150 40;-260 -150" keyTimes="0;0.4;0.7;1" begin="0.5s" dur="1s" calcMode="spline" keySplines="0 0 0.58 1;0 0 1 1;0.55 0 1 0.45" fill="freeze"/>
+  </g>
+
+  <g>
+    <use href="#mascot" xlink:href="#mascot" transform="scale(0.7)"/>
+    <animateTransform attributeName="transform" type="translate" values="1340 400;1060 258;1060 258;1340 400" keyTimes="0;0.4;0.7;1" begin="1.3s" dur="0.9s" calcMode="spline" keySplines="0 0 0.58 1;0 0 1 1;0.55 0 1 0.45" fill="freeze"/>
+  </g>
+
+  <g>
+    <use href="#mascot" xlink:href="#mascot" transform="scale(0.8)"/>
+    <animateTransform attributeName="transform" type="translate" values="600 400;600 268;600 282" keyTimes="0;0.55;1" begin="2.1s" dur="0.9s" calcMode="spline" keySplines="0 0 0.58 1;0.3 0.1 0.3 1" fill="freeze"/>
+  </g>
+</svg>
