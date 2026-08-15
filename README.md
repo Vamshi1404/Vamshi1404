@@ -1,7 +1,7 @@
 <!-- Regenerate/update: the stats, streak, top-langs and repo pin cards pull live GitHub data (edit their URLs below; they use the github-readme-stats mirror github-readme-stats-eight-theta.vercel.app with theme=github_dark plus explicit monochrome color overrides bg_color=0d0d14,title_color=e8e8f0,text_color=a7a9b2,icon_color=84868f,border_color=2b2b35, since the official host is often paused with 503 and everything must stay grayscale to match the header; the streak forces grayscale ring/fire/nums/labels; the trophy uses trophy.ryglcloud.net with theme=oldie, the only fully-grayscale preset, since the official service is paywalled); tech icons in the skillicons URL; header banner is assets/header.svg (hand-built SMIL, one-shot on load); footer banner in its capsule-render URL; the snake redraws daily via .github/workflows/snake.yml; if a widget ever looks blank, open its URL in a browser to confirm the third-party service is up. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vamshi1404/Vamshi1404/main/assets/header.svg" alt="Vamshi Thirumal Reddy" />
+  <img src="https://raw.githubusercontent.com/Vamshi1404/Vamshi1404/main/assets/header.svg?v=2" alt="Vamshi Thirumal Reddy" />
 </p>
 
 <p align="center">
