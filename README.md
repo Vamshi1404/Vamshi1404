@@ -29,9 +29,22 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,react,ts,js,jupyter,html,css,git,github,vscode,vercel,markdown&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,react,ts,js,jupyter,html,css,git,github,vscode,vercel,markdown&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv,fastapi,nestjs,nextjs,react,docker,git,github,figma,postgres,mysql,supabase,redis,gcp,aws,linux,vscode&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv,fastapi,nestjs,nextjs,react,docker,git,github,figma,postgres,mysql,supabase,redis,gcp,aws,linux,vscode&perline=12&theme=light" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&label=" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&label=" alt="NumPy" />
+  <img src="https://img.shields.io/badge/XGBoost-D6600A?style=for-the-badge&logoColor=white&label=" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-1E9FFF?style=for-the-badge&logoColor=white&label=" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white&label=" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&label=" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&label=" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white&label=" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge&logoColor=white&label=" alt="Prompt Engineering" />
 </p>
 
 ## GitHub Stats
