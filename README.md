@@ -28,10 +28,7 @@
 ## Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv,fastapi,nestjs,nextjs,react,docker,git,github,figma,postgres,mysql,supabase,redis,gcp,aws,linux,vscode&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv,fastapi,nestjs,nextjs,react,docker,git,github,figma,postgres,mysql,supabase,redis,gcp,aws,linux,vscode&perline=12&theme=light" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv,fastapi,nestjs,nextjs,react,docker,git,github,figma,postgres,mysql,supabase,redis,gcp,aws,linux,vscode&perline=12&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
